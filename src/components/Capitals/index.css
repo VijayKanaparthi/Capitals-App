@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.selectMoment {
+  display: flex;
+}
+.background {
+  background-color: #93c5fd;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: #f8fafc;
+  width: 40vw;
+  height: 40vh;
+  border: none;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.search-capital {
+  color: #000000;
+  border: 1px solid #cbd2d9;
+  padding-left: 12px;
+  font-size: 18px;
+  padding: 6px;
+  padding-right: 10px;
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
+..option {
+  color: #323f4b;
+  font-family: 'Roboto';
+}
+.option {
+  color: #323f4b;
+  font-family: 'Roboto';
+}
